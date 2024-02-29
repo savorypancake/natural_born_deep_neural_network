@@ -7,5 +7,5 @@ The aim is to develop a deep neural network with L layers for image classificati
 ### Libraries required:
 numpy, matplotlib
 
-#### Current status:
+### Current status:
 work in progress!
