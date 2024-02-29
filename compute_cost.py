@@ -9,7 +9,6 @@ def compute_cost(AL, Y):
     Returns:
     cost -- cross-entropy cost
     """
-    
     m = Y.shape[1]
     cost = -1/m * np.sum((Y * np.log(AL)) + (1 - Y) * np.log(1 - AL))
     cost = np.squeeze(cost)  # make sure shape is what is expected (e.g. [[666]] -> 666).
