@@ -1,4 +1,4 @@
-# Natural Born Neural Network
+# Natural Born Deep Neural Network
 ## Create a deep neural network for image classification from scratch
 
 ### Description:
