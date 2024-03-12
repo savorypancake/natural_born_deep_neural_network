@@ -25,6 +25,9 @@ To run this project, install it locally.
 IMPORTANT: Make sure you include your image data in a sub-folder named 'data' within the parent directory!
 Likely you want (at least) two separate files within the 'data' folder. One that includes your training data and one that includes your test data.
 
+Use the *RUN_DNN.IPYNB* file to import your data and to test and train your DNN.
+The *DNN_UTILS_FUNCTIONS.PY* file contains all functions used in the run_dnn.ipynb file including functions to perform forward and backward propagation and gradient descent.
+
 ### License:
 MIT License
 
