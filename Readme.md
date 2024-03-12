@@ -26,7 +26,7 @@ IMPORTANT: Make sure you include your image data in a sub-folder named 'data' wi
 Likely you want (at least) two separate files within the 'data' folder. One that includes your training data and one that includes your test data.
 
 Use the *run_dnn.ipynb* file to import your data and to test and train your DNN.
-The *dnn_utils_functions.py* file contains all functions used in the run_dnn.ipynb file including functions to perform forward and backward propagation and gradient descent.
+The *dnn_utils_functions.py* file contains all functions used in the *run_dnn.ipynb* file including functions to perform forward and backward propagation and gradient descent.
 
 ### License:
 MIT License
