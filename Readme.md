@@ -23,7 +23,7 @@ To be able to run this project in Python you will need to install the following 
 ### Setup:
 To run this project, install it locally.
 IMPORTANT: Make sure you include your image data in a sub-folder named 'data' within the parent directory!
-Likely you want (at least) two seperate files within the 'data' folder. One that includes your training data and one that includes your test data.
+Likely you want (at least) two separate files within the 'data' folder. One that includes your training data and one that includes your test data.
 
 ### License:
 MIT License
